@@ -1,0 +1,41 @@
+body
+{
+    background-color: rgb(240, 203, 203) !important;
+    background-size: cover;
+}
+.frase{
+    color:rgb(0, 0, 0);
+    font: size 6em;
+    font-family: Jazz LET, fantasy;
+}
+
+.subtitulo{
+    color: rgb(0, 0, 0);
+    font: size 6em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center
+}
+.rotulo{
+    background-color: rgb(243, 120, 212);
+    border-color:black;
+    text-align: center
+}
+
+.centro
+{
+    margin: 0 auto;
+    text-align: center;
+}
+.puntos {
+    width: 20%;
+    margin: auto;
+}
+
+.carousel{
+    width: 500 px;
+    margin: 0 auto;
+}
+
+#sabiasque{
+    align: center;
+}
